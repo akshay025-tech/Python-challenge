@@ -1,9 +1,7 @@
 # Python-challenge
 # 🐍 Python + DSA — 100 Days Challenge
 
-> **100 Days. One Goal. Become Strong in Python, DSA & Problem Solving.**
-
-Welcome to my **100 Days Python + DSA Challenge** 🚀
+Welcome to my 100 Days Python + DSA  🚀
 
 This repository contains my daily coding practice as I learn **Python from fundamentals to advanced concepts**, followed by **Data Structures & Algorithms**, problem-solving, and coding interview preparation.
 
